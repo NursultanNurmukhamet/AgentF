@@ -2,7 +2,7 @@
 
 Пять футбольных AI-агентов на Amazon Nova Micro: вратарь, защитник, полузащитник и два нападающих. Сохранённая версия проекта для возвращения к экспериментам после AWS Agentic Football Cup.
 
-**Python · Amazon Bedrock · AgentCore · Offline tests · MIT**
+**Python · Amazon Bedrock · AgentCore · Offline tests · MIT-0**
 
 ## Как устроено
 
@@ -54,7 +54,7 @@ team/ai-*/src/       Пять entrypoint и системные prompts
 scripts/            Проверки и подготовка CodeZip-исходников
 config/             Пример конфигурации без данных аккаунта
 PROVENANCE.md        Происхождение, изменения и ограничения архива
-LICENSE             Исходная лицензия MIT
+LICENSE             Исходная лицензия MIT-0 (MIT No Attribution)
 ```
 
 ## Восстановление рантаймов
