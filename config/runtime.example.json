@@ -1,0 +1,7 @@
+{
+  "project_name": "YOUR_UNIQUE_AGENTF_PROJECT",
+  "aws_profile": "YOUR_AWS_PROFILE",
+  "aws_region": "us-east-1",
+  "model_id": "us.amazon.nova-micro-v1:0",
+  "runtime_arns": {"GK": "YOUR_GK_ARN", "DEF": "YOUR_DEF_ARN", "MID": "YOUR_MID_ARN", "FWD1": "YOUR_FWD1_ARN", "FWD2": "YOUR_FWD2_ARN"}
+}

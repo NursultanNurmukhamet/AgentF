@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.aws/
+aws-targets.json
+*.log
+build/
+dist/
+node_modules/
+.agentcore/
+.cli/
+cdk.out/
+*credentials*
+*session*
